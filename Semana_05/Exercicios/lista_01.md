@@ -21,8 +21,6 @@ print(a)
 
 ![Uma imagem](assets/ex01.PNG)
 
-Escolha a opção que responde corretamente:
-
 Imprime os números pares de 2 a 10.
 
 ______
