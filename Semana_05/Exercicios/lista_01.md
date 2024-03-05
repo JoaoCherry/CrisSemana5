@@ -81,13 +81,7 @@ ______
 
 Qual será a saída do código acima?
 
-A) "Olá, meu nome é João. Olá, meu nome é Maria."
-
-B) "Olá, meu nome é ."
-
-C) "João Maria"
-
-D) "undefined undefined"
+"Olá, meu nome é João. Olá, meu nome é Maria."
 
 ______
 
