@@ -31,13 +31,7 @@ ______
 
 No lugar onde está escrito “// linha” qual das opções abaixo deve estar para funcionar corretamente o código?
 
-A) let carro = new Carro("Toyota");
-
-B) let ligar = new ligar("Toyota");
-
-C) class Moto extends Veiculo {};
-
-D) carro1.ligar();
+let carro = new Carro("Toyota");
 
 ______
 
