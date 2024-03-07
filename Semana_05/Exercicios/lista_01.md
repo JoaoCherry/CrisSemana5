@@ -147,6 +147,7 @@ Chamando o Método para Ver o Total:
 Dica: Utilize console.log() para exibir as informações!
 
 **Resposta**
+
 ![Uma imagem](assets/resposta9.png)
 
 ______
