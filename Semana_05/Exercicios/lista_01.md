@@ -95,7 +95,7 @@ Criando e manipulando Animais:
 Dica: Utilize `console.log()` para exibir as informações!
 
 **Resposta**
-![Uma imagem](assets/resposta8.png)
+![Uma imagem](assets/resposta7.png)
 
 ______
 
@@ -122,6 +122,8 @@ Chamando os Métodos:
 
 Dica: Utilize console.log() para exibir as informações!
 
+**Resposta**
+![Uma imagem](assets/resposta8.png)
 
 ______
 
