@@ -41,13 +41,7 @@ ______
 
 Escolha a opção que responde corretamente:
 
-A) 18
-
-B) 16
-
-C) 14
-
-D) 12
+18
 
 ______
 
