@@ -94,6 +94,22 @@ Criando e manipulando Animais:
 
 Dica: Utilize `console.log()` para exibir as informações!
 
+**Resposta**
+class Animal{
+    constructor(nome, idade){
+        this.nome = nome;
+        this.idade = idade;
+    }
+    descrever(){
+        return `Este é ${this.nome}, e ele tem ${this.idade} anos.`;
+    }
+}
+
+const animal1 = new Animal("Floquinho", "2");
+const animal2 = new Animal("Mingau", "5");
+
+console.log(animal1.descrever() + " " + animal2.descrever());
+
 ______
 
 **8)** Nos últimos dias tivemos a oportunidade de ter contato com Programação Orientada a Objetos, e tivemos contato com o tema "herança". Herança é um princípio de orientação a objetos, que permite que classes compartilhem atributos e métodos. Ela é usada na intenção de reaproveitar código ou comportamento generalizado ou especializar operações ou atributos. Então vamos praticar esse conteúdo nessa questão.
