@@ -95,12 +95,7 @@ Criando e manipulando Animais:
 Dica: Utilize `console.log()` para exibir as informações!
 
 **Resposta**
-![Uma imagem](assets/resposta8.PNG)
-
-const animal1 = new Animal("Floquinho", "2");
-const animal2 = new Animal("Mingau", "5");
-
-console.log(animal1.descrever() + " " + animal2.descrever());
+![Uma imagem](assets/resposta8.png)
 
 ______
 
