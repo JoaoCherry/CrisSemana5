@@ -96,13 +96,13 @@ Dica: Utilize `console.log()` para exibir as informações!
 
 **Resposta**
 class Animal{
-    constructor(nome, idade){
-        this.nome = nome;
-        this.idade = idade;
-    }
-    descrever(){
-        return `Este é ${this.nome}, e ele tem ${this.idade} anos.`;
-    }
+constructor(nome, idade){
+this.nome = nome;
+this.idade = idade;
+}
+descrever(){
+return `Este é ${this.nome}, e ele tem ${this.idade} anos.`;
+}
 }
 
 const animal1 = new Animal("Floquinho", "2");
