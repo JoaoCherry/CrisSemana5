@@ -49,12 +49,6 @@ ______
 
 A) ![Uma imagem](assets/ex04_1.PNG)
 
-B) ![Uma imagem](assets/ex04_2.PNG)
-
-C) ![Uma imagem](assets/ex04_3.PNG)
-
-D) ![Uma imagem](assets/ex04_4.PNG)
-
 ______
 
 **5)** Qual a forma correta de definir uma classe Carro em JavaScript, com um método ligar() e um atributo marca?
